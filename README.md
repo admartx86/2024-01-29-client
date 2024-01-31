@@ -2,4 +2,4 @@
 
 A client for coding practice.
 
-✔ Best Time 3:14.
+✔ Best Time 2:12.
