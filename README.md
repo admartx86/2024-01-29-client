@@ -1,5 +1,5 @@
-# 2024-01-29-client
+🔰 Practice
 
-A client for coding practice.
+Drill writing unit tests.
 
 ✔ Best Time 2:12.
